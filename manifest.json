@@ -1,0 +1,14 @@
+{
+  "name": "Narwhal Song GX Mod",
+  "description": "Narwhal Song background music for Opera GX",
+  "version": "1.0",
+  "mod": {
+    "payload": {
+      "background_music": {
+        "music": [
+          "narwhal.mp3"
+        ]
+      }
+    }
+  }
+}
